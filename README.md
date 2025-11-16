@@ -1,7 +1,7 @@
 # Timer Project – Simple Delay-Activated Buzzer Timer
 
 **Tinkercad Project Link:**  
-[https://www.tinkercad.com/things/7EKif7Vgqq1-timer?sharecode=YyXd9bNL5LWPBskYRg_KxsNtBiTITuYKMkJKlZsrW1UA](https://www.tinkercad.com/things/7EKif7Vgqq1-timer?sharecode=YyXd9bNL5LWPBskYRg_KxsNtBiTITuYKMkJKlZsrW1UA)
+[https://www.tinkercad.com/things/7EKif7Vgqq1-timer?sharecode=YyXd9bNL5LWPBskYRg_KxsNtBiTITuYKMkJKlZsrW1U](https://www.tinkercad.com/things/7EKif7Vgqq1-timer?sharecode=YyXd9bNL5LWPBskYRg_KxsNtBiTITuYKMkJKlZsrW1U)
 
 ---
 
